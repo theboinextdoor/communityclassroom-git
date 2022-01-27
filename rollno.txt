@@ -1,0 +1,6 @@
+roll num : 1
+roll num : 2
+roll num : 3
+roll num : 4
+roll num : 5
+roll num : 6
